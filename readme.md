@@ -1,0 +1,1 @@
+Le fichier readme est le premier fichier qu'un développeur doit consulter avant d'entamer un projet. Ainsi, il est capital que les développeurs sachent rédiger un fichier readme correct pour y compiler les informations pertinentes avec concision.8 oct. 2020
